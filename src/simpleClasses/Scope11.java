@@ -1,6 +1,6 @@
 package simpleClasses;
 
-public class Scope {
+public class Scope11 {
 
 	public static void main(String[] args) {
 

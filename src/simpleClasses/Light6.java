@@ -1,6 +1,6 @@
 package simpleClasses;
 
-public class Light {
+public class Light6 {
 
 	public static void main(String[] args) {
 		

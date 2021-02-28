@@ -1,6 +1,6 @@
 package simpleClasses;
 
-public class BoolTest {
+public class BoolTest9 {
 
 	public static void main(String[] args) {
 

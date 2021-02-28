@@ -1,6 +1,6 @@
 package simpleClasses;
 
-public class ForTest {
+public class ForTest4 {
 
 	public static void main(String[] args) {
 

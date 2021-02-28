@@ -1,6 +1,6 @@
 package simpleClasses;
 
-public class BlockTest {
+public class BlockTest5 {
 
 	public static void main(String[] args) {
 

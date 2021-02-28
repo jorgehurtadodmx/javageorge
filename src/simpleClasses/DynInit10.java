@@ -1,6 +1,6 @@
 package simpleClasses;
 
-public class DynInit {
+public class DynInit10 {
 
 	public static void main(String[] args) {
 		//program about dynamic initialization

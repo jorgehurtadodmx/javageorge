@@ -1,6 +1,6 @@
 package simpleClasses;
 
-public class CharDemo {
+public class CharDemo8 {
 
 	public static void main(String[] args) {
 

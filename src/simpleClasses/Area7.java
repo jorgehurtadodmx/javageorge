@@ -1,6 +1,6 @@
 package simpleClasses;
 
-public class Area {
+public class Area7 {
 
 	public static void main(String[] args) {
 

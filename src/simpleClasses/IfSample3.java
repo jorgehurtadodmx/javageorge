@@ -1,6 +1,6 @@
 package simpleClasses;
 
-public class IfSample {
+public class IfSample3 {
 
 	public static void main(String[] args) {
 
